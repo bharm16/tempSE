@@ -1,0 +1,4 @@
+ID, name, age, phone, address,
+1, Baltazar Hernandez, 23, 5120004444, 76 Bird Ln San Marcos TX 78666 
+2, Jose Pinon, 22, 5120003333, 10 Frog Ln San Marcos TX 78666 
+3, Maria Reyes, 24, 5120002222, 46 Bear Ln San Marcos TX 78666 

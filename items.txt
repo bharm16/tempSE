@@ -1,0 +1,6 @@
+The Pirates,1,Baltazar Hernandez,15,book,Yes,1,No,No
+Wild Life,2,Bill Nie,20,magazine,No,1,No,No
+The River,3,Ocean,10,book,No,1,Yes,No
+Stranger Things,4,Tuffer Brothers,50,video,Yes,1,No,No
+Java,5,Random Author,30,reference,No,1,No,No
+Bad Habits,6,Ed Sheeran,50,audio,Yes,1,No,No
